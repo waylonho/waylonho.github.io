@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Waylon Ho",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://waylonho.github.io/images/WaylonPortrait.jpg",
+    "email": "waylonho@hawaii.edu",
+    "phone": "808-595-8808",
+    "website": "https://waylonho.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "waylonho",
+        "url": "http://github.com/waylonho"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "waylonho",
+        "url": "https://www.linkedin.com/in/waylonho/"
       },
       {
         "network": "twitter",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "waylon.ho",
+        "url": "http://instagram.com/waylon.ho/"
       }
     ]
   },

@@ -26,11 +26,6 @@
         "url": "https://www.linkedin.com/in/waylonho/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
         "network": "instagram",
         "username": "waylon.ho",
         "url": "http://instagram.com/waylon.ho/"
@@ -63,28 +58,26 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Eclipse",
+        "Git/Github",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-09",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -96,7 +89,7 @@
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-08-09",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [

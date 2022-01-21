@@ -9,7 +9,7 @@ date: 2020-03-14
 labels:
   - Java
   - Eclipse
-summary: An ICS project that used Java to pull data from Excel spreadsheet and represent covid-19 metrics
+summary: An ICS project that used Java to pull data from Excel spreadsheet and represent covid-19 metrics.
 ---
 
   <img class="ui image" src="../images/covidTable.png">

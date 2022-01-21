@@ -3,13 +3,13 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: COVID Data Representation
-permalink: projects/micromouse
+permalink: projects/covid_data_representation
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-14
 labels:
   - Java
   - Eclipse
-summary: An ICS project that used Java to represent covid-19 metrics
+summary: An ICS project that used Java to pull data from Excel spreadsheet and represent covid-19 metrics
 ---
 
 <div class="ui small rounded images">
@@ -17,9 +17,9 @@ summary: An ICS project that used Java to represent covid-19 metrics
   <img class="ui image" src="../images/covidTable.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+During the coronavirus pandemic in early 2020, the Centers for Disease Control and Prevention (CDC) was constantly releasing daily data regarding the state of all 50 U.S states and U.S territories. For an ICS 111 assignment, we were tasked with a file with this data as input, scanning it and extracting the desired numbers, and representing them in a readable, organized fashion. The files were taken directly from the CDC website and read locally from our computers. I intend to work on the code in the future so that there is some sort of live data collection, but as of right now, the project only works with downloaded files with set dates and statistics. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Code wise, the project is somewhat simple, but it was my first time connecting something outside of code itself and displaying it in a better format. Additionally, it was and still is relevent to the current uncertain state of the pandemic. The code takes a user inputted date to draw from the data file. A scanner then finds and reads the file, storing the appropiate values from certain columns. It then runs the information through a printTable function, which handles all the abbreviations, spacing, and formatting for the table. Similarly, the histogram goes through the same process, except it only accounts of daily cases at any given date for all states and territories. 
 
 Here is some code that illustrates how we read values from the line sensors:
 
@@ -35,7 +35,6 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 

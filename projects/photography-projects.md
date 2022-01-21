@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/reflection.jpg
+title: Photography Projects
+permalink: projects/photography-projects
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-01
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: Some photography projects, big and small, that I've been apart of.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/reflection.jpg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 

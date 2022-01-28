@@ -22,5 +22,6 @@ Code wise, the project is somewhat simple, but it was my first time connecting s
 
 For now, the project is on pause until further notice. However, I will hopefully add more features to the code and maybe even make it part of a website with better UI. 
 
+Source: <a href="https://github.com/waylonho/covid_data_representation"><i class="large github icon"></i>COVID Data Representation</a>
 
 

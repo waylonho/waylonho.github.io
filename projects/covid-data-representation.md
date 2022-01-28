@@ -20,7 +20,7 @@ Code wise, the project is somewhat simple, but it was my first time connecting s
 
 <img class="ui image" src="../images/covidHistogram.png">
 
-For now, the project is on pause until further notice. However, I will hopefully add more features to the code and maybe even make it part of a website with better UI. 
+For now, the project is on pause until further notice. As of current date (1/27/2022), the pandemic has changed every part of our lives. There's a new sense of normalcy that we will have to live with, no matter how we approach the situation. Being able to work on a project that was literally about the current state of the world, even if it was just a little coding practice assignment, allowed me to appreciate coding more. Perhaps in the future I will add more features to the code and maybe even make it part of a website with better UI. 
 
 Source: <a href="https://github.com/waylonho/covid_data_representation"><i class="large github icon"></i>COVID Data Representation</a>
 

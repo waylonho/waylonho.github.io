@@ -21,3 +21,5 @@ It’s hard to say if I think JavaScript is a good or bad language right now, as
 ## ICS 314 & Athletic Software Engineering (ASE)
 
 The format of ICS 314 and its athletic software approach is new for me, and I like it (so far). Other classes usually involve a TA lecturing through a lab and students replicating the thought process. ASE requires more attention, and that forces your brain to focus on the important concepts. Having timed coding problems (WODs, workout of the day) is stressful, and I know they’re only going to get harder. Something about being under a little bit of pressure helps my brain process information faster, and the challenge aspect makes me think the problem out better. There’s also a very rewarding sense of completion upon running code and seeing that it works. It is still early to say if the WODs will stick with me, but I definitely prefer them over typical assignments. In a nutshell, JavaScript and learning about athletic software engineering is a lot. I’ve learned a bit already, and I expect to learn a lot more in the near future. 
+
+This is a test line.

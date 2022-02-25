@@ -18,6 +18,9 @@ I couldn’t have been any more wrong. It’s only been a week since I’ve begu
 
 Now, let’s talk a little bit about the good. Semantic UI has a wonderfully simple way to make parts of a website fit together and work. A lot of the wording makes sense once you get the meaning of them down, and there’s lots of overlap between alterations of one type of element and other elements. When Semantic UI works, it’s a beautiful thing sent from the heavens, and it deserves a lot of praise. Even though I struggled a bit learning it, I now know that I can put together a pretty nice looking website if I need to. Additionally, the styling and divs taught me a lot about how a web browser interacts with the code for a page. Elements like a dropdown menu and a background image have so much more behind the scenes than I thought, and I understand that realm of web design now.
 
+<img src="/images/browserhistoryhtml.png" alt="browserhistoryhtml">
+<img src="/images/browserhistorysemantic.png" alt="browserhistorysemantic">
+
 Also, the possibilities are endless. Sure, HTML and CSS can take you very far, but having any UI framework is like having a new pair of running shoes. There's so many more tools at your disposal, and it makes the pieces of the puzzle fall into place much easier. You can work with a lot more elements in ways that would take raw HTML and CSS styling much more time. UI frameworks enable you to do what you want to do in HTML more effectively.
 
 ## A Newfound Appreciation

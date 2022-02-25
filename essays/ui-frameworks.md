@@ -22,7 +22,7 @@ Now, let’s talk a little bit about the good. Semantic UI has a wonderfully sim
 
 <img src="/images/browserhistorysemantic.png" alt="browserhistorysemantic">
 
-Also, the possibilities are endless. Sure, HTML and CSS can take you very far, but having any UI framework is like having a new pair of running shoes. There's so many more tools at your disposal, and it makes the pieces of the puzzle fall into place much easier. You can work with a lot more elements in ways that would take raw HTML and CSS styling much more time. UI frameworks enable you to do what you want to do in HTML more effectively.
+Also, the possibilities are endless. Sure, HTML and CSS can take you very far, but having any UI framework is like having a new pair of running shoes. If we look at the pictures above, we can see how clean Semantic UI looks compared to just HTML/CSS. Granted, the HTML site is formatted strangely with weird colors, but the point still stands. There's so many more tools at your disposal, and it makes the pieces of the puzzle fall into place much easier. You can work with a lot more elements in ways that would take raw HTML and CSS styling much more time. UI frameworks enable you to do what you want to do in HTML more effectively.
 
 ## A Newfound Appreciation
 

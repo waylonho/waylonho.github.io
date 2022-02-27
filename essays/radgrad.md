@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Rad or Not?
+title: Putting the RAD in gRADuate
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-26
 labels:

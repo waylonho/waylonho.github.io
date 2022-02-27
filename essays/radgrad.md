@@ -6,7 +6,6 @@ title: RadGrad: Rad or Not?
 date: 2022-02-26
 labels:
   - RadGrad
-  - Careers
 ---
 
 Getting a job after college is a daunting task for students just getting into the workforce. It’s a big world out there, and especially for computer science students like myself, we always hear that the “possibilities are endless”. But with an ever expanding industry with so much potential, it’s easy to feel lost. RadGrad, an application used by UH Manoa computer science students (and prospective CS students) helps you navigate through these complex waters of finding a job after graduation. The website provides many features including a detailed schedule, a list of future programs that could help improve your coding skills, and CS topics to show interest in that all focus on helping you as a programmer develop skills for the professional world.

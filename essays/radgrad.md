@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: RadGrad: Rad or Not?
+title: Rad or Not?
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-26
 labels:

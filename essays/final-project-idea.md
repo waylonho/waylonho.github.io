@@ -8,10 +8,10 @@ labels:
   - Meteor
 ---
 
-##Overview
+## Overview
 
-##Mockup Page Ideas
+## Mockup Page Ideas
 
-##Use Case Ideas
+## Use Case Ideas
 
-##Beyond the Basics
+## Beyond the Basics

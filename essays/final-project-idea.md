@@ -18,6 +18,12 @@ The solution: UHM Tunes (thinking of a better name) would be a social hub where 
 
 The home page will allow users to create an account. They can then input all their information along with their favorite artists, albums, and music. They can go to a main page where other users' profiles can be filtered. 
 
+The browse page will have multiple fields that show the other common artists people follow, general genres of music, and a filter menu where the user can organize the profiles however they want.
+
+Students can log into their profiles and change their preferences at anytime.
+
+Admins can edit student profiles and remove any innappropiate profiles.
+
 <ul>
   <li>Landing Page</li>
   <li>Browse Music Page (can filter by artist, genre, etc.)</li>

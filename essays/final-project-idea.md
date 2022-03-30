@@ -28,7 +28,19 @@ The home page will allow users to create an account. They can then input all the
 
 ## Use Case Ideas
 
-
+<ul>
+  <li>User goes to landing page, creates a profile, and inputs their music information.</li>
+  <li>User goes to landing page, goes to the Browse Music page, clicks on a student's profile to view.</li>
+  <li>An admin logs onto the site and filters the student profile by artists.</li>
+  <li>User logs in, clicks on another student's profile, and tries to view their outside profile (Spotify, Apple Music)</li>
+</ul>
 
 ## Beyond the Basics
 
+I'm not exactly sure how to implement some of the slightly more complicated idea, but these ideas could possibly be an extention of the student profiles.
+
+<ul>
+  <li>Be able to rate, review, and read about albums others have listened to.</li>
+  <li>Be able to comment on others' profiles.</li>
+  <li>Display favorite songs and albums from a particular artist on your profile.</li>
+</ul>

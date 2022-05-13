@@ -12,7 +12,7 @@ labels:
 summary: A social platform meant to connect musicians with each other.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/fractal.png">
+<img class="ui medium center floated rounded image" src="../images/sesshHome.png">
 
 This is a test.
 

@@ -13,7 +13,7 @@ labels:
 summary: A social platform meant to connect musicians with each other.
 ---
 
-<center><img class="large center image" src="../images/sesshHome.jpg"></center>
+<center><img class="center image" src="../images/sesshHome.jpg"></center>
 
 [Sessh](https://sessh.xyz/#/) is a web application for musicians to sign up, input their preferred instruments and genres, and connect with other fellow musicians to play music. The application was a group project for a software engineering class, and my group really wanted to do something that people could actually use. We wanted to try make a website that felt simple yet effective for connecting musicians. 
 

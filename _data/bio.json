@@ -103,8 +103,11 @@
       "website": "https://www.iolani.org/",
       "startDate": "2020-08-21",
       "endDate": "2021-05-28",
-      "summary": "Assisted teachers and staff during classrooms’ transitions to covid-19 friendly teaching environments, taught elementary level students in the classroom. Collaborated with other co-supervisors to manage recess, lunch, and after-school operations for students.",
-      "highlights": "test", "test2"
+      "summary": "‘Iolani is a private college preparatory school for more than 2,100 students from grades K-12 (Iolani.org).",
+      "highlights": [
+        "Assisted teachers and staff during classrooms’ transitions to covid-19 friendly teaching environments, taught elementary level students in the classroom.", 
+        "Collaborated with other co-supervisors to manage recess, lunch, and after-school operations for students.",
+        ]
     }
   ],
   "references": [
